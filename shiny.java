@@ -275,8 +275,8 @@ public class shiny
 		
 		// Store random swear phrases here
 		String[] swearPhrases = {
-			"This fucking idiot can't even give valid input.",
-			"Who the hell taught you how to type?",
+			"This idiot can't even give valid input.",
+			"Who taught you how to type?",
 			"Learn to follow directions, dumbass.",
 			"Stop trying to break the program you brat.",
 			"What the bloody hell is wrong with you? Can you not read or something?",
